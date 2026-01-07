@@ -4,9 +4,10 @@
 <img src="https://cdn-icons-png.flaticon.com/128/4997/4997543.png" width="40" height="40"/>
 
 
-How to reach me 👉🏻
+- How to reach me 👉🏻
 <a href="https://www.linkedin.com/in/nefisebikbay">Linkedin</a> |
-[Send email](mailto:nefisebikbay@outlook.com)
+[Send email](mailto:nefisebikbay@outlook.com) <br/>
+- Beginner-level frontend practice projects are available at [Beginner Frontend Projects](https://github.com/NefiseBikbay/ProjectsForBeginners)
 
 
 <h3>Tools & Technologies </h3>
@@ -22,7 +23,7 @@ How to reach me 👉🏻
 - HTML <img width="23" height="23" alt="html-2" src="https://github.com/user-attachments/assets/b8b316d8-6f3a-4281-91cd-ddfed64e1666" />
 
 
-Beginner-level frontend practice projects are available at [Beginner Frontend Projects](https://github.com/NefiseBikbay/ProjectsForBeginners)
+
 
 
 
