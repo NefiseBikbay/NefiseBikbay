@@ -4,8 +4,10 @@
 <img src="https://cdn-icons-png.flaticon.com/128/4997/4997543.png" width="40" height="40"/>
 
 
-How to reach me:
-<a href="https://www.linkedin.com/in/nefisebikbay">Linkedin</a>
+How to reach me 👉🏻
+<a href="https://www.linkedin.com/in/nefisebikbay">Linkedin</a> |
+[Send email](mailto:nefisebikbay@outlook.com)
+
 
 <h3>Tools & Technologies </h3>
 
