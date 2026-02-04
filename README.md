@@ -4,7 +4,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/4997/4997543.png" width="40" height="40"/>
 
 
-- How to reach me <a href="https://www.linkedin.com/in/nefisebikbay"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f37a92ee-1e97-45fa-8798-9e50627ba2bf" /></a><a href="mailto:nefisebikbay@outlook.com"><img width="29" height="29" alt="image" src="https://github.com/user-attachments/assets/d3c1151b-acc3-4ed4-a80e-bba0afeb1ebe" /></a>
+- How to reach me <a href="https://www.linkedin.com/in/nefisebikbay"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f37a92ee-1e97-45fa-8798-9e50627ba2bf" /></a><a href="mailto:bikbaynefise@gmail.com"><img width="29" height="29" alt="image" src="https://github.com/user-attachments/assets/d3c1151b-acc3-4ed4-a80e-bba0afeb1ebe" /></a>
 - Beginner-level frontend practice projects are available at [Beginner Frontend Projects](https://github.com/NefiseBikbay/ProjectsForBeginners)
 
 
